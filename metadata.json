@@ -1,0 +1,6 @@
+{
+  "name": "Calculateur de Départ Différé",
+  "description": "Calculez le réglage idéal de départ différé pour votre machine à laver selon l'heure de fin souhaitée.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
